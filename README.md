@@ -66,6 +66,9 @@ In this method, you run a Python server on your computer. The ESP32 automaticall
 5.Restart the ESP32 → it will automatically update.
 
    Method             Difficulty    Automatic             Best For
+   
  Arduino OTA             Easy          No           Development & testing
+ 
 Web-based OTA           Medium         No         Sharing updates with others
+
 Python Server OTA        Easy          Yes        Automatic & remote updates
