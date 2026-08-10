@@ -1,0 +1,4 @@
+Method,Difficulty,Automatic,Best For
+ArduinoOTA,Easy,No,Development & testing
+Web-based OTA,Medium,No,Sharing updates with others
+Python Server OTA,Easy,Yes,Automatic & remote updates
