@@ -29,6 +29,7 @@ This is the classic method using the `ArduinoOTA` library. After the first USB u
 # How to use
 
 1.Upload once via USB.
+
 2.Open Serial Monitor and note the IP address.
 3.In Arduino IDE go to Tools → Port and select the network port (e.g. ESP32-LED at 192.168.x.x).
 4.Upload new sketches wirelessly.
